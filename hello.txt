@@ -1,4 +1,4 @@
 hello file.
-first change.
+first a change.
 some change.
 change on branch dev.
